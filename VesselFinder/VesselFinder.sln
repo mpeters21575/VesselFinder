@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VesselFinder", "VesselFinder\VesselFinder.csproj", "{5FF0F654-05CE-4004-A5E9-95FF8B8BF41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VesselFinder.Business", "VesselFinder.Business\VesselFinder.Business.csproj", "{253277F3-8675-4658-9FB1-23C1A5C6DEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF0F654-05CE-4004-A5E9-95FF8B8BF41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF0F654-05CE-4004-A5E9-95FF8B8BF41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF0F654-05CE-4004-A5E9-95FF8B8BF41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF0F654-05CE-4004-A5E9-95FF8B8BF41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253277F3-8675-4658-9FB1-23C1A5C6DEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253277F3-8675-4658-9FB1-23C1A5C6DEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253277F3-8675-4658-9FB1-23C1A5C6DEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253277F3-8675-4658-9FB1-23C1A5C6DEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
